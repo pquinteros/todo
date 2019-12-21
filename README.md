@@ -2,6 +2,7 @@
 
 Simple Todo App with react. https://todo.pquinteros.now.sh/
 
+<br>
 
 <p align="center">
   <img src=".static-readme/React_App2.png" width="90%" title="Learn App">
