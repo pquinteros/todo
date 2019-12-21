@@ -1,6 +1,6 @@
 ## Todo App
 
-Simple Todo App with react. https://todo.pquinteros.now.sh/
+Simple Todo App with **react**. https://todo.pquinteros.now.sh/
 
 <br>
 
