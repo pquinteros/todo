@@ -4,7 +4,7 @@ Simple Todo App with react. https://todo.pquinteros.now.sh/
 
 
 <p align="center">
-  <img src="./static/React_App2.png" width="97%" title="Learn App">
+  <img src="./src/React_App2.png" width="97%" title="Learn App">
 </p>
 
 ### `npm start`
